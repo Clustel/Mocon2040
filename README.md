@@ -6,5 +6,4 @@ Heres some images
 
 <img width="546" height="705" alt="image" src="https://github.com/user-attachments/assets/a1792d49-4fde-4468-a082-b26dd5f08f0d" />
 
-
-  It can be ordered through JLCPCB or any other pcb maker by uploading the zipped Prod Folder inside the RP2040 Devboard folder
+It can be ordered through JLCPCB or any other pcb maker by uploading the zipped Prod Folder. All the kiCAD failes have also been uploaded so that you can modify and change features if you wish to.
